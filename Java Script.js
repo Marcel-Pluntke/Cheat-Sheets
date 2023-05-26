@@ -1,1 +1,1 @@
-// Java Script Cheat Sheat
+// Java Script Cheat Sheet

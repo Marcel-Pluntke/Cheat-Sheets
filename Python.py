@@ -39,17 +39,17 @@ type('Hellloooooo') # str
 "\t" # adds a tab
 'Hey you!'[4] # y
 
-name = 'Andrei Neagoie'
+name = 'Marcel'
 name[4] # e
-name[:] # Andrei Neagoie
-name[1:] # ndrei Neagoie
-name[:1] # A
-name[-1] # e
-name[::1] # Andrei Neagoie
-name[::-1] # eiogaeN ierdnA
-name[0:10:2]# Ade e 
+name[:] # Marcel
+name[1:] # arcel
+name[:1] # M
+name[-1] # l
+name[::1] # Marcel
+name[::-1] # lecraM
+name[0:10:2]# Mre
 # : is called slicing and has the format [ start : end : step ]
 
-'Hi there ' + 'Timmy' # 'Hi there Timmy' --> This is called string concatenation
+'Hi there ' + 'Viewer' # 'Hi there Viewer' --> This is called string concatenation
 
 '*'*10 # **********

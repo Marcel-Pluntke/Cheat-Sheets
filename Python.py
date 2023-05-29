@@ -1,11 +1,11 @@
 # Python Cheat Sheet
 # Numbers and Aritmetic
 # Python data types of numbers
-type(1) # int 
-type(-10) # int
+type(8) # int 
+type(-90) # int
 type(0) # int
-type(0.0) # float
-type(2.2) # float
+type(0.6) # float
+type(4.2) # float
 type(4E2) # float - 4*10 to the power of 2
 
 # Arithmetic
